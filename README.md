@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
   +  email : dbui0025@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 duonghoccodefullstack/duonghoccodefullstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

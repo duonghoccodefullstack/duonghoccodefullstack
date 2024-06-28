@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duonghoccodefullstack
+- 👋 Hi, I’m Bùi Văn Dương 
 - 👀 I’m interested in codeding
 - 🌱 I’m currently learning Mind X
 - 💞️ I’m looking to collaborate on ...

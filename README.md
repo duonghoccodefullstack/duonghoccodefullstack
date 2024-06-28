@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Mind X
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-  +  email : dbui0025@gmail.com
+  +  email : ![image](https://github.com/duonghoccodefullstack/duonghoccodefullstack/assets/143280316/8d2c8038-fd64-45a4-9346-15a460a87af6)
+
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
